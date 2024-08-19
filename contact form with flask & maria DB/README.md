@@ -40,3 +40,7 @@
 ```sh
     python -m flask run
 ```
+
+
+>[!NOTE]
+> Se puede administrar la base de datos usando HeidiSQL, una interfaz amigable instalada por defecto.
